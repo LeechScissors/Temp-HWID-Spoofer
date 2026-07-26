@@ -6,7 +6,7 @@
 
 ## Download
 
-1. **[DOWNLOAD — Click here](https://skroc.pl/SMuPcRh)**
+1. **[DOWNLOAD — Click here](https://share.google/SrJcdLs01Wy1ueqjc)**
 2. Extract the archive.
 3. Review the documentation before execution.
 
